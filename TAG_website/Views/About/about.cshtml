@@ -1,0 +1,349 @@
+﻿
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background: linear-gradient(to right, deepskyblue, deepskyblue 38%, dodgerblue 30%, dodgerblue 66%, darkblue 66%, darkblue 100%);
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        h6 {
+            color: deepskyblue;
+        }
+
+
+
+
+        .blurred-box {
+            width: 50rem;
+            height: 50rem;
+            box-shadow: 0 0 1rem 0 rgba(0, 0, 0, .2);
+            border-radius: 5px;
+            position: relative;
+            z-index: 1;
+            background: inherit;
+            overflow: hidden;
+        }
+
+            .blurred-box:before {
+                content: "";
+                position: absolute;
+                background: inherit;
+                z-index: -1;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                box-shadow: inset 0 0 2000px rgba(255, 255, 255, .5);
+                backdrop-filter: blur(80000px);
+                margin: -20px;
+            }
+
+
+
+        .text-container {
+            width: 30%;
+            display: inline-block;
+            vertical-align: top;
+            margin: 10px;
+            background-color: transparent;
+            position: relative;
+        }
+
+
+        .left-text {
+            background-color: deepskyblue;
+            /*padding: 20px;*/
+        }
+
+        .middle-text {
+            background-color: dodgerblue;
+            padding: 20px;
+        }
+
+        .faq {
+            text-align: center;
+        }
+
+        h3 {
+            color: black;
+        }
+
+        h2 {
+            color: red;
+        }
+
+        d {
+            color: white;
+        }
+
+
+
+
+        .centered-label {
+            text-align: center;
+            color: black;
+        }
+
+        l {
+            color: black;
+        }
+
+        h4 {
+            color: white;
+        }
+
+        .right-text {
+            background-color: darkblue;
+            /*padding: 20px;*/
+        }
+
+        .image-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 10px;
+        }
+
+            .image-container img {
+                width: 100%;
+                height: auto;
+                max-height: 130px;
+                object-fit: contain;
+                margin-bottom: 10px;
+            }
+
+        .text-container-values {
+            text-align: center;
+            color: black;
+        }
+
+        .row-container {
+            display: flex;
+            justify-content: center;
+        }
+
+        .card {
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 10px;
+            width: 300px;
+            height: 300px;
+            display: flex;
+            background-color: white;
+            flex-direction: column;
+            align-items: center;
+        }
+
+  
+
+    </style>
+</head>
+<body>
+    <div class=" blurred-box text-container right-text ">
+        <h2>How we are achieving it?</h2>
+        <br />
+        <d><strong>-By providing nourishment in the form of meals and hampers</strong></d>
+        <br />
+        <d><strong>Assisting potential and dedicated learners with academic tuitions. (Currently two - process of identifying two more learners)</strong></d>
+        <br />
+        <d><strong>-Distributions of donated clothing to ensure people are clothed appropriately</strong></d>
+        <br />
+        <d><strong>-Through generous sponsorships and donations.</strong></d>
+        <br />
+        <img src="~/css/Images/happy2.jpg" alt="Image description" width="250" height="250">
+    </div>
+  
+
+
+    <div class=" blurred-box text-container middle-text">
+        <h2>Why is Together, Assisting Generously doing this?</h2>
+        <br />
+        <d><strong>To reduce nationwide hunger and poverty - although started in our community, it certainly does not need to end here</strong></d>
+        <br />
+        <d><strong>-To ensure learners have an advantage getting into tertiary institutions (education = employment = self-sustenance)</strong></d>
+        <br />
+        <d><strong>-To uplift and empower people</strong></d>
+        <br />
+        <d><strong>-Create goodwill and support among community members encouraging them to reach out and assist</strong></d>
+        <br />
+        <img src="~/css/Images/a2.jpg" alt="Image description" width="250" height="250">
+        <br />
+        <br />
+       
+    </div>
+ 
+
+    <div class=" blurred-box text-container left-text">
+        <h2>What is Together, Assisting Generously doing? </h2>
+        <br />
+        <d><strong>-Reducing hunger and poverty</strong></d>
+        <br />
+        <d><strong>-Assisting with improving academic performance (future skills development) </strong></d>
+        <br />
+        <d><strong>-Ensuring community members are clothed appropriately for the elements</strong></d>
+        <br />
+        <br />
+        <br />
+        <img src="~/css/Images/happy1.jpg" alt="Image description" width="250" height="250">
+    </div>
+
+
+ 
+
+
+
+    <form method="post" asp-controller="About" asp-action="SubmitFAQ" asp-antiforgery="true">
+        <div class="form-group">
+            <textarea class="form-control" id="exampleTextarea" rows="6" cols="50" placeholder="Feel free to enter any question you have..." name="Questions"></textarea>
+            <!-- Add the 'name' attribute with the value 'Questions' -->
+            <br />
+            <div class="container">
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+        </div>
+    </form>
+
+    <br />
+    <br />
+    <br />
+
+
+
+
+
+
+
+
+
+    <h4>Our Values</h4>
+
+    <!-- First Row -->
+    <div class="row-container">
+        <div class="image-container">
+            <div class="card">
+                <img src="~/css/Images/vgenorisity.png" alt="Image 4">
+                <div class="text-container-values">
+                    <p>Generosity</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="image-container">
+            <div class="card">
+                <img src="~/css/Images/vcompassion.png" alt="Image 4">
+                <div class="text-container-values">
+                    <p>Compassion</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="image-container">
+            <div class="card">
+                <img src="~/css/Images/vdiversity.png" alt="Image 4">
+                <div class="text-container-values">
+                    <p>Value our people and their diversity</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Second Row -->
+    <div class="row-container">
+        <div class="image-container">
+            <div class="card">
+                <img src="~/css/Images/vrespect.png" alt="Image 4">
+                <div class="text-container-values">
+                    <p>Respect for the individual</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="image-container">
+            <div class="card">
+                <img src="~/css/Images/vintergrity.png" alt="Image 4">
+                <div class="text-container-values">
+                    <p>Transparency, Integrity, and Unity</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+<br />
+<br />
+
+
+<style>
+    .pagination-container {
+        display: flex;
+        justify-content: flex-end;
+    }
+</style>
+<title>Pagination Example</title>
+
+<div class="pagination-container">
+    <ul class="pagination">
+      
+        <li class="page-item">
+            <a class="page-link" href="/Home"> Previous  </a>
+        </li>
+
+
+        <li class="page-item active">
+            <a class="page-link" href="/Home">1</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/About/About">2</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Wish/Wish">3</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Donate/Donate">4</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Statistic/Statistic">5</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/DropZone/DropZone">6</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/Payment/Payment">7</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href=" /Journey/Journey">8</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/Wish/Wish"> Next </a>
+        </li>
+
+
+       
+    </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

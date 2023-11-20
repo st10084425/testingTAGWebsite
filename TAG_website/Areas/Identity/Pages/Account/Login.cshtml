@@ -1,0 +1,178 @@
+﻿@page
+@model LoginModel
+<!-- Include Toastr CSS and JavaScript in your layout -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+
+@{
+    ViewData["Title"] = "Log in";
+}
+
+<style>
+    body {
+       /* background-image: url('css/Images/blueback.jpg');*/
+        background-image: url('@Url.Content("~/css/Images/blueback.jpg")');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        font-family: Arial, sans-serif;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .card {
+        /*background-color: #fff;
+        border: 1px solid #e0e0e0;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        width: 400px;*/
+
+        background-color: rgba(255, 255, 255, 0.5); /* Set a transparent background color */
+        border: 1px solid #e0e0e0;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        width: 450px;
+        max-height: 80vh;
+        overflow-y: auto;
+        backdrop-filter: blur(10px);
+
+    }
+
+    .card-header {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+   
+
+
+
+    .blue-input {
+        border: 2px solid #3498db;
+        width: 100%;
+        height: 40px;
+        border-radius: 5px;
+        padding: 10px;
+        margin: 10px 0;
+    }
+
+    .form-floating label {
+        color: #3498db;
+    }
+
+    .form-floating .blue-input {
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .bigger-button {
+        width: 100%;
+        height: 40px;
+        background-color: #3498db;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background-color 0.2s;
+    }
+
+        .bigger-button:hover {
+            background-color: #2073b3;
+        }
+
+    .custom-card {
+        background-color: rgba(0, 0, 128, 0.5);
+        border: 2px solid red;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+
+    .or-divider {
+        text-align: center;
+        display: flex; /* Use flexbox for centering */
+        align-items: center; /* Center vertically */
+    }
+
+    .or-text {
+        background-color: #fff; /* Add a background to make it stand out */
+        padding: 10px;
+        border-radius: 50%; /* Make it a circle */
+        width: 40px; /* Adjust the size as needed */
+        height: 40px; /* Adjust the size as needed */
+        text-align: center;
+        font-weight: bold;
+    }
+
+
+
+</style>
+<div class="container">
+    <div class="card">
+        <div class="card-header">
+            <h1 style="color: navy;">@ViewData["Title"]</h1>
+        </div>
+        <div class="card-body">
+          
+
+
+            <form id="account" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-floating">
+                    <input asp-for="Input.Email" class="form-control blue-input" autocomplete="username" aria-required="true" placeholder="Email">
+                    <label asp-for="Input.Email">Email</label>
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-floating">
+                    <input asp-for="Input.Password" class="form-control blue-input" autocomplete="current-password" aria-required="true" placeholder="Password" type="password">
+                    <label asp-for="Input.Password">Password</label>
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" asp-for="Input.RememberMe" type="checkbox" />
+                    <label asp-for="Input.RememberMe" class="form-check-label">Remember me</label>
+                </div>
+                <button id="login-submit" type="submit" class="bigger-button">
+                    <i class="fas fa-sign-in-alt"></i> Log in
+                </button>
+               @* <div class="or-divider center-text">
+                    <p><strong>OR</strong></p>
+                </div>*@
+
+               @* <div class="or-divider center-text">
+                    <div class="or-text">
+                        <strong>OR</strong>
+                    </div>
+                </div>*@
+
+
+                <div style="width: 10px; display: inline-block;"></div> <!-- Add a little space -->
+                <button id="googleSignIn" type="button" class="bigger-button" style="background-color: #dd4b39;">
+                    <i class="fab fa-google" style="color: #fff;"></i>  Login In
+                </button>
+
+                <p>
+                    <a id="forgot-password" asp-page="./ForgotPassword" style="color: navy">Forgot your password?</a>
+                </p>
+                <p>
+                    <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" style="color: navy">Register as a new user</a>
+                </p>
+                <p>
+                    <a id="resend-confirmation" asp-page="./ResendEmailConfirmation" style="color: navy">Resend email confirmation</a>
+                </p>
+
+            </form>
+        </div>
+    </div>
+</div>
+
+

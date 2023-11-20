@@ -1,0 +1,240 @@
+﻿
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+
+
+
+    <style>
+        .fa-black {
+            color: white;
+        }
+    </style>
+
+    <style>
+        .nav-item .nav-link {
+            color: navy;
+        }
+
+
+
+
+        /* Apply basic styles to the link */
+
+
+
+    </style>
+
+
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"] - TAG_website</title>
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+   @* added this*@
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.min.js"></script>
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
+
+    <link rel=" stylesheet" href="~/css/MyTheme.css" />
+
+
+
+
+
+
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <link rel="stylesheet" href="~/TAG_website.styles.css" asp-append-version="true" />
+
+</head>
+
+<body>
+
+    <header>
+
+
+
+
+@*
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary justify-content-center text-light">
+
+            <div class="container-fluid">
+
+
+
+                <div class="logo">
+
+                    <img src="~/css/Images/TAG Logo .jpg" alt=" Logo" height="30px" width="32px" />
+
+                </div>
+
+
+
+                <h4 style="color:transparent"> .</h4>
+
+
+                <a class="navbar-brand" style="font-weight:700 ; color:darkblue" asp-area="" asp-page="/Index">    Together, Assisting Generously</a>
+
+
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+
+                    <span class="navbar-toggler-icon"></span>
+
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarColor01">
+
+                    <ul class="navbar-nav me-auto">
+
+*@
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+            <div class="container-fluid">
+                <div class="logo">
+
+                    <img src="~/css/Images/TAG Logo .jpg" alt=" Logo" height="30px" width="32px" />
+
+                </div>
+
+                <a class="navbar-brand" style="font-weight:700 ; color:darkblue" asp-area="" asp-page="/Index">Together, Assisting Generously</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+
+
+                        <!-- Repeat the same for other navigation links -->
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Home">
+                                <i class="fas fa-home  fa-black"></i> Home
+                            </a>
+                        </li>
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/About/About">
+                                <i class="fas fa-info-circle fa-black"></i> About
+                            </a>
+                        </li>
+
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Wish/Wish">
+                                <i class="fas fa-heart fa-black"></i> Wishlist
+                            </a>
+                        </li>
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Donate/Donate">
+                                <i class="fas fa-donate fa-black"></i> Donate
+                            </a>
+                        </li>
+
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Statistic/Statistic">
+                                <i class="fas fa-chart-bar fa-black"></i> Statistics
+                            </a>
+                        </li>
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/DropZone/DropZone">
+                                <i class="fas fa-map-marker-alt  fa-black"></i> DropZones
+                            </a>
+                        </li>
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Payment/Payment">
+                                <i class="fas fa-credit-card  fa-black"></i> Payments
+                            </a>
+                        </li>
+
+
+
+
+
+
+
+
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Journey/Journey">
+                                <i class="fas fa-images  fa-black"></i> Journey
+                            </a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="/Admin/Admin">
+                                <i class="fas fa-user-cog fa-black"></i> Admin
+                            </a>
+                        </li>
+
+                        <partial name="_LoginPartial" />
+
+
+
+
+
+
+
+
+                    </ul>
+
+
+
+                </div>
+
+            </div>
+
+        </nav>
+
+
+
+
+    </header>
+
+    <div class="container">
+
+        <main role="main" class="pb-3">
+
+            @RenderBody()
+
+        </main>
+
+    </div>
+
+
+    @RenderSection("Scripts", required: false)
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+
+
+</body>
+
+</html>
+

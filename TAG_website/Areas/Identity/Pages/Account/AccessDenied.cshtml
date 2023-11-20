@@ -1,0 +1,36 @@
+﻿@page
+@model AccessDeniedModel
+@{
+    ViewData["Title"] = "Access denied";
+}
+
+<style>
+
+    .interest-gif {
+        display: block;
+        margin: 0 auto; /* Centers the images horizontally */
+        width: 500px; /* Adjust the width to your desired size */
+        height: 500px; /* Adjust the height to your desired size */
+    }
+
+    .text-danger {
+        color: red;
+    }
+    body {
+        background-color: white;
+    }
+</style>
+
+
+<header>
+    <h1 class ="text-danger">@ViewData["Title"]</h1>
+    <p class="text-danger">You do not have access to this resource.</p>
+
+     <br />
+
+    <ul>
+
+        <img src="~/css/Images/access.gif" class="interest-gif" alt="">
+    </ul>
+
+</header>

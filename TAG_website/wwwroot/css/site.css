@@ -1,0 +1,802 @@
+
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+/* 3 */
+.btn-3 {
+    background: rgb(0,172,238);
+    background: linear-gradient(0deg, rgba(0,172,238,1) 0%, rgba(2,126,251,1) 100%);
+    width: 130px;
+    height: 40px;
+    line-height: 42px;
+    padding: 0;
+    border: none;
+}
+
+    .btn-3 span {
+        position: relative;
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+
+    .btn-3:before,
+    .btn-3:after {
+        position: absolute;
+        content: "";
+        right: 0;
+        top: 0;
+        background: rgba(2,126,251,1);
+        transition: all 0.3s ease;
+    }
+
+    .btn-3:before {
+        height: 0%;
+        width: 2px;
+    }
+
+    .btn-3:after {
+        width: 0%;
+        height: 2px;
+    }
+
+    .btn-3:hover {
+        background: transparent;
+        box-shadow: none;
+    }
+
+        .btn-3:hover:before {
+            height: 100%;
+        }
+
+        .btn-3:hover:after {
+            width: 100%;
+        }
+
+    .btn-3 span:hover {
+        color: rgba(2,126,251,1);
+    }
+
+    .btn-3 span:before,
+    .btn-3 span:after {
+        position: absolute;
+        content: "";
+        left: 0;
+        bottom: 0;
+        background: rgba(2,126,251,1);
+        transition: all 0.3s ease;
+    }
+
+    .btn-3 span:before {
+        width: 2px;
+        height: 0%;
+    }
+
+    .btn-3 span:after {
+        width: 0%;
+        height: 2px;
+    }
+
+    .btn-3 span:hover:before {
+        height: 100%;
+    }
+
+    .btn-3 span:hover:after {
+        width: 100%;
+    }
+
+
+
+    .custom-btn span {
+        display: inline-block;
+        padding-left: 10px; /* Adjust the padding to space the heart and text */
+    }
+
+/* You can add more styles as needed */
+
+
+
+
+
+
+
+/* Babysitter infographic */
+.infographic-title {
+    font-size: 36px;
+    display: inline-block;
+    line-height: 32px;
+    font-weight: 100;
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+    .infographic-title .inner-title {
+        color: #86bd27;
+        display: inline-block;
+        letter-spacing: -2.5px;
+        text-align: left;
+    }
+
+        .infographic-title .inner-title span {
+            padding-left: 60px;
+            padding-right: 10px;
+        }
+
+        .infographic-title .inner-title strong {
+            padding-right: 10px;
+        }
+
+.infographic {
+    margin-top: 50px;
+    text-align: center;
+    transition: all 0.75s ease-in-out;
+}
+
+    .infographic img {
+        display: none;
+    }
+
+    .infographic .item {
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+        display: inline-block;
+        margin-right: 25px;
+        padding: 20px;
+        width: 150px;
+        height: 400px;
+        list-style: none;
+        line-height: 100px;
+        text-align: left;
+        font-size: 160%;
+        color: #555;
+        /*position: absolute;*/
+        position: relative;
+        transition: all 0.75s ease;
+        background: #fff;
+        z-index: 1;
+    }
+
+        .infographic .item:after {
+            background-position: left top;
+            background-repeat: no-repeat;
+            background-size: contain;
+            content: "";
+            display: block;
+            height: 100%;
+            left: 0;
+            opacity: 1;
+            position: absolute;
+            top: 0;
+            width: 100%;
+        }
+
+    .infographic .item1 {
+        top: -20px;
+    }
+
+        .infographic .item1:after {
+            background-image: url(http://startupsmartup.com/wp-content/themes/divi%20child/images/infographic/slide1.png);
+        }
+
+    .infographic .item2 {
+        margin-left: -30px;
+        top: -80px;
+        z-index: 3;
+    }
+
+        .infographic .item2:after {
+            background-image: url(http://startupsmartup.com/wp-content/themes/divi%20child/images/infographic/slide2.png);
+        }
+
+    .infographic .item3 {
+        margin-left: -30px;
+        top: 10px;
+        z-index: 2;
+    }
+
+        .infographic .item3:after {
+            background-image: url(http://startupsmartup.com/wp-content/themes/divi%20child/images/infographic/slide3.png);
+        }
+
+    .infographic .item4 {
+        margin-left: -30px;
+        top: -30px;
+        z-index: 1;
+    }
+
+        .infographic .item4:after {
+            background-image: url(http://startupsmartup.com/wp-content/themes/divi%20child/images/infographic/slide4.png);
+        }
+
+    .infographic .item5 {
+        margin-left: -30px;
+        top: 60px;
+        z-index: 2;
+    }
+
+        .infographic .item5:after {
+            background-image: url(http://dev.startupsmartup.com/wp-content/themes/divi%20child/images/infographic/slide5.png);
+        }
+
+    .infographic .item6 {
+        margin-left: -30px;
+        top: -80px;
+        z-index: 3;
+    }
+
+        .infographic .item6::after {
+            background-image: url(http://startupsmartup.com/wp-content/themes/divi%20child/images/infographic/slide6.jpg);
+        }
+
+    .infographic .item7 {
+        margin-left: -30px;
+        top: 30px;
+        z-index: 1;
+    }
+
+        .infographic .item7::after {
+            background-image: url(http://startupsmartup.com/wp-content/themes/divi%20child/images/infographic/slide7.jpg);
+        }
+
+    .infographic .item8 {
+        margin-left: -30px;
+        top: -30px;
+        z-index: 2;
+    }
+
+        .infographic .item8::after {
+            background-image: url(http://startupsmartup.com/wp-content/themes/divi%20child/images/infographic/slide8.jpg);
+        }
+
+.item4,
+.item.5,
+.item.6,
+.item.7,
+.item, 8 {
+    /*prepared for tablet view -top: height 100% + 20 */
+}
+
+.infographic .uppercase {
+    color: black;
+    text-transform: uppercase;
+}
+
+.infographic .lowercase {
+    color: black;
+    text-transform: lowercase;
+}
+
+.infographic .item span {
+    bottom: -10px;
+    position: absolute;
+    transition: all 0.75s ease-in-out;
+    z-index: 9;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+    .infographic .item span.uppercase {
+        bottom: -25px;
+    }
+
+.infographic .item object {
+    display: none;
+}
+
+.infographic .item:hover {
+    cursor: pointer;
+    background-color: black;
+    padding: 40px;
+    top: -10px;
+    z-index: 4;
+}
+
+.infographic .item1:hover,
+.infographic .item2:hover,
+.infographic .item3:hover,
+.infographic .item4:hover {
+    margin-left: 0px;
+    margin-right: 60px;
+}
+
+.infographic .item5:hover,
+.infographic .item6:hover,
+.infographic .item7:hover,
+.infographic .item8:hover {
+    margin-left: 0px;
+    margin-right: 60px;
+}
+
+.infographic .item:hover:after {
+    opacity: 0;
+}
+
+.infographic .item:hover > object {
+    display: block;
+}
+
+.infographic .item:hover > .lowercase {
+    bottom: 56%;
+    color: black;
+    font-size: 16px;
+    font-weight: 100;
+    left: 10px;
+}
+
+.infographic .item:hover > .uppercase {
+    bottom: 50%;
+    color: white;
+    font-size: 18px;
+    left: 10px;
+    letter-spacing: -1px;
+}
+
+
+
+
+
+
+
+
+
+@import "compass/css3";
+/*%boxsized {
+    @include box-sizing(border-box)
+}*/
+@mixin breakpointMin($point) {
+
+    @if $point == max {
+        @media (min-width: 920px) {
+            @content;
+        }
+    }
+
+    @else if $point == large {
+        @media (min-width: 760px) {
+            @content;
+        }
+    }
+
+    @else if $point == medium {
+        @media (min-width: 460px) {
+            @content;
+        }
+    }
+
+    @else if $point == small {
+        @media (min-width: 0) {
+            @content;
+        }
+    }
+}
+
+@mixin breakpointCustom($point, $value) {
+    @media ($point:$value) {
+        @content;
+    }
+}
+
+
+@mixin breakpointMax($point) {
+
+    @if $point == max {
+        @media (max-width: 920px) {
+            @content;
+        }
+    }
+
+    @else if $point == large {
+        @media (max-width: 760px) {
+            @content;
+        }
+    }
+
+    @else if $point == medium {
+        @media (max-width: 460px) {
+            @content;
+        }
+    }
+
+    @else if $point == small {
+        @media (max-width: 0) {
+            @content;
+        }
+    }
+}
+
+.flipgallery {
+    position: relative;
+   /* background-color: #dbd8d3;*/
+    &:after
+
+{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    left: 0;
+    top: 0;
+  /*  background-color: #fff;*/
+}
+
+}
+
+.flip-gallery {
+ /*   padding-top: 90px;*/
+    position: relative;
+    transition: all 0.6s ease 0s;
+    > div
+
+{
+    text-align: center;
+    display: none;
+    &:first-child
+
+{
+    display: block;
+}
+
+}
+
+> span {
+    text-align: center;
+    color: #262526;
+    display: block;
+    padding: 70px 0 50px;
+    font-weight: bold;
+    a
+
+{
+    color: #262526;
+    text-decoration: none;
+
+    @include breakpointMax(medium) {
+        display: block
+    }
+
+    @include breakpointMin(medium) {
+        + a {
+            margin-left: 20px;
+            padding-left: 20px;
+            border-left: 1px solid #262526;
+        }
+    }
+}
+
+}
+
+.tab-titles {
+    left: 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    display: block;
+    width: 100%;
+    padding-bottom: 10px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 12px;
+    color: #262526;
+    z-index: 1;
+    background-color: lemonchiffon;
+    transition: all 0.6s ease 0s;
+    span
+
+{
+    padding: 5px 20px;
+    position: relative;
+    cursor: pointer;
+    display: block;
+    font-weight: bold;
+
+    @include breakpointMin(max) {
+        display: inline-block;
+
+        &:before {
+            color: #57534a;
+            content: "•";
+            height: 8px;
+            left: 0px;
+            line-height: 0.5;
+            position: absolute;
+            top: 13px;
+            width: 8px;
+        }
+
+        &.filter {
+            display: none
+        }
+    }
+}
+
+@include breakpointMax(max) {
+    height: 20px;
+    overflow: hidden;
+}
+
+@include breakpointMin(max) {
+    height: auto !important;
+}
+
+}
+}
+/* flip the pane when hovered */
+.flip-container:hover .flipper {
+    transform: rotateY(-180deg);
+}
+
+.flip-container, .front, .back {
+    height: 365px;
+    width: 265px
+}
+
+.flip-container {
+    display: inline-block;
+    margin: 0 14px;
+    transition: all 0.6s ease 0s;
+    /* flip speed goes here */
+    .flipper
+
+{
+    transition: 0.6s;
+    transform-style: preserve-3d;
+    position: relative;
+    transform: perspective(1000px);
+}
+/* hide back of pane during swap */
+.front, .back {
+    backface-visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: dodgerblue;
+    font-size: 14px;
+    font-family: Arial;
+    b
+
+{
+    color: #262526;
+    font-family: Arial;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+}
+/* add zindex:2 to front pane to  placed it above back when swapped.
+     * this way u can show half front and half back */
+.front {
+  /*  color: #57534a;*/
+    /* z-index: 2;*/
+    > div
+
+{
+    padding-top: 15px;
+}
+
+}
+/* back, initially hidden pane */
+.back {
+    transform: rotateY(180deg);
+    @extend %boxsized;
+    padding: 50px 25px;
+    > div
+
+{
+    min-height: 196px;
+    padding: 10px 0;
+}
+
+}
+
+&.hide {
+    opacity: 0
+}
+}
+  
+
+
+
+
+/*
+slider*/
+@import url(https://fonts.googleapis.com/css?family=Varela+Round);
+
+html, body {
+    background: #333 url("https://codepen.io/images/classy_fabric.png");
+}
+
+.slides {
+    padding: 0;
+    width: 609px;
+    height: 420px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+}
+
+    .slides * {
+        user-select: none;
+        -ms-user-select: none;
+        -moz-user-select: none;
+        -khtml-user-select: none;
+        -webkit-user-select: none;
+        -webkit-touch-callout: none;
+    }
+
+    .slides input {
+        display: none;
+    }
+
+.slide-container {
+    display: block;
+}
+
+.slide {
+    top: 0;
+    opacity: 0;
+    width: 609px;
+    height: 420px;
+    display: block;
+    position: absolute;
+    transform: scale(0);
+    transition: all .7s ease-in-out;
+}
+
+    .slide img {
+        width: 100%;
+        height: 100%;
+    }
+
+.nav label {
+    width: 200px;
+    height: 100%;
+    display: none;
+    position: absolute;
+    opacity: 0;
+    z-index: 9;
+    cursor: pointer;
+    transition: opacity .2s;
+    color: #FFF;
+    font-size: 156pt;
+    text-align: center;
+    line-height: 380px;
+    font-family: "Varela Round", sans-serif;
+    background-color: rgba(255, 255, 255, .3);
+    text-shadow: 0px 0px 15px rgb(119, 119, 119);
+}
+
+.slide:hover + .nav label {
+    opacity: 0.5;
+}
+
+.nav label:hover {
+    opacity: 1;
+}
+
+.nav .next {
+    right: 0;
+}
+
+input:checked + .slide-container .slide {
+    opacity: 1;
+    transform: scale(1);
+    transition: opacity 1s ease-in-out;
+}
+
+input:checked + .slide-container .nav label {
+    display: block;
+}
+
+.nav-dots {
+    width: 100%;
+    bottom: 9px;
+    height: 11px;
+    display: block;
+    position: absolute;
+    text-align: center;
+}
+
+    .nav-dots .nav-dot {
+        top: -5px;
+        width: 11px;
+        height: 11px;
+        margin: 0 4px;
+        position: relative;
+        border-radius: 100%;
+        display: inline-block;
+        background-color: rgba(0, 0, 0, 0.6);
+    }
+
+        .nav-dots .nav-dot:hover {
+            cursor: pointer;
+            background-color: rgba(0, 0, 0, 0.8);
+        }
+
+input#img-1:checked ~ .nav-dots label#img-dot-1,
+input#img-2:checked ~ .nav-dots label#img-dot-2,
+input#img-3:checked ~ .nav-dots label#img-dot-3,
+input#img-4:checked ~ .nav-dots label#img-dot-4,
+input#img-5:checked ~ .nav-dots label#img-dot-5,
+input#img-6:checked ~ .nav-dots label#img-dot-6
+input#img-6:checked ~ .nav-dots label#img-dot-7,
+input#img-6:checked ~ .nav-dots label#img-dot-8,
+input#img-6:checked ~ .nav-dots label#img-dot-9,
+input#img-6:checked ~ .nav-dots label#img-dot-10,
+input#img-6:checked ~ .nav-dots label#img-dot-11 {
+    background: rgba(0, 0, 0, 0.8);
+}
+
+
+
+/*@media (max-width: 768px) {*/
+    /* CSS rules for screens up to 768px wide */
+/*}
+
+@media (min-width: 769px) {*/
+    /* CSS rules for screens 769px wide and larger */
+/*}*/
+
+
+/*@media screen and (max-width: 768px) {*/
+    /* Your CSS styles for small screens go here */
+/*}*/
+
+/* Adjust layout for mobile screens */
+
+
+@media (max-width: 768px) {
+    .text-box {
+        width: 80%; /* Adjust the width for smaller screens */
+        font-size: 8px; /* Reduce the font size for smaller screens */
+    }
+
+        .text-box h1 {
+            font-size: 20px; /* Adjust the heading font size for smaller screens */
+        }
+
+   
+    }
+/*
+--------------------------------------------------------------------------for about
+*/
+
+
+@media (max-width: 768px) {
+    /* Apply responsive styles for screens smaller than 768px */
+    .text-container {
+        width: 50%;
+    }
+
+    .blurred-box {
+        width: 50%;
+    }
+
+    .text-container img {
+        max-width: 50%; /* Adjust the max-width for images */
+    }
+}
+
+

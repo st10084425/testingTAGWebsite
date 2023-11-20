@@ -1,0 +1,168 @@
+﻿
+
+<head>
+    <style>
+        body {
+            background-color:lightskyblue ;
+        }
+    </style>
+</head>
+
+
+
+
+
+
+<div class="gray-box">
+  <div class="header">
+    <h1>Our current Drop Off Zone are...</h1>
+    @*<div class="container">
+        <div class="left-text">
+            <p>Address 1:</p>
+            <p>4 Birdwood Road,Phoenix</p>
+        </div>*@
+        @*<div class="right-text">
+            <p>Address 2:</p>
+            <p>12 Valley Lane,Phoenix</p>
+        </div>
+    </div>*@
+    <p><strong>Head Quarter location</strong></p>
+    <p>47 AllingStone Crescent</p>
+    <P>Whetstone</P>
+    <p>Phoenix</p>
+  </div>
+</div>
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1EiUbZDRaTVowQ2Igh2a7LD4Ep9BcIi4&ehbc=2E312F" width="640" height="480"></iframe>
+
+
+
+
+
+
+
+
+@*<head runat="server">
+    <title></title>
+    <style>
+        .map-container {
+            width: 100%;
+            height: 400px;
+            background-color: navy;
+        }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+    <script>
+        function initMap() {
+            var location1 = { lat: 30.98919123811009, lng: -29.710774135898898 };
+            //var location2 = { lat: 33.987654, lng: -112.345678 };-29.710774135898898, 30.98919123811009
+            var map = new google.maps.Map(document.getElementsByClassName("map-container")[0], {
+                zoom: 10,
+                center: location1
+            });
+            var marker1 = new google.maps.Marker({
+                position: location1,
+                map: map,
+                title: '47 Allingstone Cresent Phoenix'
+            });
+            //var marker2 = new google.maps.Marker({
+            //    position: location2,
+            //    map: map,
+            //    title: '12 Valley Lane Phoenix'
+            //});
+        }
+    </script>
+</head>
+<body onload="initMap()">
+    <form id="form1" runat="server">
+        <div class="map-container"></div>
+    </form>
+</body>
+*@
+
+<br />
+<br />
+<style>
+    .pagination-container {
+        display: flex;
+        justify-content: flex-end;
+    }
+</style>
+<title>Pagination Example</title>
+
+<div class="pagination-container">
+    <ul class="pagination">
+        @*<li class="page-item disabled">
+        <a class="page-link" href="#">&laquo;</a>
+        </li>*@
+        @*<li class="page-item active">
+            <a class="page-link" href="/Home">1</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/About/About">2</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Wish/Wish">3</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/Donate/Donate">4</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/DropZone/DropZone">5</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/Payment/Payment">6</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href=" /Journey/Journey">7</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/Admin/Admin">8</a>
+        </li>*@
+
+
+        <li class="page-item">
+            <a class="page-link" href="/Statistic/Statistic"> Previous  </a>
+        </li>
+
+
+        <li class="page-item active">
+            <a class="page-link" href="/Home">1</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/About/About">2</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Wish/Wish">3</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Donate/Donate">4</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Statistic/Statistic">5</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/DropZone/DropZone">6</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/Payment/Payment">7</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href=" /Journey/Journey">8</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/Payment/Payment"> Next </a>
+        </li>
+
+
+
+
+        @*<li class="page-item">
+        <a class="page-link" href="#">&raquo;</a>
+        </li>*@
+    </ul>
+</div>

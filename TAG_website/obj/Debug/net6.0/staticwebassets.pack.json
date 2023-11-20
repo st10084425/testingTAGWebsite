@@ -1,0 +1,653 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TAG_website.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TAG_website.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\IMG-20230308-WA0014.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\IMG-20230308-WA0014.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\IMG-20230308-WA0016.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\IMG-20230308-WA0016.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\TAG Logo .jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\TAG Logo .jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\a1.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\a2.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\a3.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\access.gif",
+      "PackagePath": "staticwebassets\\css\\Images\\access.gif"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\alec.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\alec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\background.jpeg",
+      "PackagePath": "staticwebassets\\css\\Images\\background.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\blueback.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\blueback.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\child.png",
+      "PackagePath": "staticwebassets\\css\\Images\\child.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\constitution.pdf",
+      "PackagePath": "staticwebassets\\css\\Images\\constitution.pdf"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate1.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate10.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate11.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate2.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate3.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate4.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate5.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate6.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate7.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate8.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donate9.jpeg",
+      "PackagePath": "staticwebassets\\css\\Images\\donate9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donationpic1.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donationpic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donationpic2.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donationpic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donationpic3.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donationpic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donationpic4.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donationpic4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\donationpic5.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\donationpic5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\email.png",
+      "PackagePath": "staticwebassets\\css\\Images\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\food.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\food.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\gallery1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\gallery2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\gallery3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\hampers.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\hampers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\happy1.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\happy1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\happy2.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\happy2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\homepage.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\homepage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\homepagepic.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\homepagepic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\journey.pdf",
+      "PackagePath": "staticwebassets\\css\\Images\\journey.pdf"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\logo.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\math.png",
+      "PackagePath": "staticwebassets\\css\\Images\\math.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\math1.png",
+      "PackagePath": "staticwebassets\\css\\Images\\math1.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new1.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new10.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new11.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new12.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new13.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new14.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new15.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new16.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new17.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new18.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new19.jpeg",
+      "PackagePath": "staticwebassets\\css\\Images\\new19.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new2.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new20.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new21.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new22.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new3.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new4.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new5.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new6.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new7.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new8.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\new9.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\new9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\newsletter.pdf",
+      "PackagePath": "staticwebassets\\css\\Images\\newsletter.pdf"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\partner1.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\partner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\partner2.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\partner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\password.jpeg",
+      "PackagePath": "staticwebassets\\css\\Images\\password.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\project1.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\project1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\project2.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\project2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\project3.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\project3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\project4.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\project4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\project5.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\project5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\project6.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\project6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\soap.pdf",
+      "PackagePath": "staticwebassets\\css\\Images\\soap.pdf"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgcdonate.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgcdonate.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgceducation.jpeg",
+      "PackagePath": "staticwebassets\\css\\Images\\svgceducation.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgchungry.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgchungry.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgcinnovation.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgcinnovation.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgcstationary.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\svgcstationary.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgdonate.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgdonate.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgeducation.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgeducation.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgfeed.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgfeed.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgfeedhungry.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgfeedhungry.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svginnovation.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svginnovation.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgnutircous.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgnutircous.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgnutri.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgnutri.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\svgstationary.png",
+      "PackagePath": "staticwebassets\\css\\Images\\svgstationary.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\thank.gif",
+      "PackagePath": "staticwebassets\\css\\Images\\thank.gif"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\tuition.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\tuition.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\vcompassion.png",
+      "PackagePath": "staticwebassets\\css\\Images\\vcompassion.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\vdiversity.png",
+      "PackagePath": "staticwebassets\\css\\Images\\vdiversity.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\vgenorisity.png",
+      "PackagePath": "staticwebassets\\css\\Images\\vgenorisity.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\vintergrity.png",
+      "PackagePath": "staticwebassets\\css\\Images\\vintergrity.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\vrespect.png",
+      "PackagePath": "staticwebassets\\css\\Images\\vrespect.png"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\Images\\vurdan.jpg",
+      "PackagePath": "staticwebassets\\css\\Images\\vurdan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\MyTheme.css",
+      "PackagePath": "staticwebassets\\css\\MyTheme.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\priya\\OneDrive\\Documents\\Desktop\\TAG Website V7.0 (09_11_2023)\\TAG Website _versionn5\\TAG Website _versionn5\\updating tag\\TAG_website\\TAG_website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TAG_website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TAG_website.props",
+      "PackagePath": "build\\TAG_website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TAG_website.props",
+      "PackagePath": "buildMultiTargeting\\TAG_website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TAG_website.props",
+      "PackagePath": "buildTransitive\\TAG_website.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

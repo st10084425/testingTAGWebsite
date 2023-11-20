@@ -1,0 +1,48 @@
+﻿@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout) && parentLayout !=  null)
+    {
+        Layout = parentLayout.ToString();
+    }
+    else
+    {
+        Layout = "/Areas/Identity/Pages/_Layout.cshtml";
+    }
+}
+
+
+<style>
+    body {
+        /*background-color: white;*/
+        
+        background-color: white;
+        
+    }
+
+  
+
+</style>
+
+<h1>Manage my  account</h1>
+
+<div>
+  @*  <p><strong>Change my  account settings</strong</p>*@
+    <p>
+        <strong>Change my account settings</strong>
+        <i class="fas fa-cog setting-icon"></i>
+    </p>
+
+
+    <hr />
+    <div class="row">
+        <div class="col-md-3">
+            <partial name="_ManageNav" />
+        </div>
+        <div class="col-md-9">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}

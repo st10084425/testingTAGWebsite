@@ -1,0 +1,456 @@
+﻿<style>
+    body {
+        background-color: deepskyblue;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container {
+        text-align: center; /* Center the content horizontally */
+    }
+
+    .update-button {
+        margin-top: 10px;
+    }
+
+</style>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Language Competencies</title>
+    <style>
+
+        .bar-graph {
+            margin: 40px auto; /* Increase the margin for more spacing */
+            width: 600px; /* Increase the width of the graph container */
+            font-family: Arial, sans-serif;
+        }
+
+        .bar-graph__item {
+            margin-bottom: 20px; /* Increase the margin between each bar item */
+        }
+
+        .bar-graph__label {
+            font-weight: bold;
+            font-size: 16px; /* Increase the font size for labels */
+        }
+
+        .bar-graph__bar-container {
+            display: inline-block;
+            width: 300px; /* Increase the width of the bar container */
+            background-color: lightgray;
+            border-radius: 4px;
+        }
+
+        .bar-graph__bar {
+            height: 30px; /* Increase the height of the bars */
+            background-color: #007bff;
+            border-radius: 4px;
+            transition: width 0.5s;
+        }
+
+        .bar-graph__percentage {
+            display: inline-block;
+            margin-left: 10px;
+            font-weight: bold;
+            font-size: 16px; /* Increase the font size for percentages */
+        }
+
+    </style>
+</head>
+<body>
+    @* <div class="bar-graph">
+    <div class="bar-graph__item">
+    <span class="bar-graph__label">Food Hampers </span>
+    <br />
+    <div class="bar-graph__bar-container">
+
+    <div class="bar-graph__bar" style="width: 40%;"></div>
+    </div>
+    <span class="bar-graph__number">30</span> <!-- Change the class and content here -->
+
+    <input class="bar-graph__number-input" type="number" value="" min="0" max="1000">
+    <button class="update-button">Update</button>
+    </div>*@
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:navy;font-size:22px;">🍲Food Hampers</span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+               
+                <input class="bar-graph__number-inpu admin-input" type="number" value="" min="0" max="1000">
+                <button class="update-button">Update</button>
+                 
+            </div>
+                 
+        </div>
+                 
+    </div>
+                 
+                 
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:red;font-size:22px; ">
+                🍞    Bread
+            </span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+               
+                <input class="bar-graph__number-input admin-input" type="number" value="" min="0" max="1000">
+                <button class="update-button">Update</button>
+                 
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:white;font-size:22px;">🥫 Non-perishables</span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+
+                <input class="bar-graph__number-input admin-input" type="number" value="" min="0" max="1000">
+                    <button class="update-button">Update</button>
+                
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:deeppink;font-size:22px;"> 🍽️Hot Meals</span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+
+                <input class="bar-graph__number-input admin-input " type="number" value="" min="0" max="1000">
+                    <button class="update-button">Update</button>
+                
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:green;font-size:22px;">🥣Cereal</span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+              
+                <input class="bar-graph__number-input  admin-input " type="number" value="" min="0" max="1000">
+                
+                <button class="update-button">Update</button>
+              
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:peachpuff;font-size:22px;">  🍹Beverages</span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+
+                <input class="bar-graph__number-input  admin-input" type="number" value="" min="0" max="1000">
+                    <button class="update-button">Update</button>
+                
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:hotpink;font-size:22px;">🩸 Hygiene Packs</span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+                
+                    <input class="bar-graph__number-input admin-input " type="number" value="" min="0" max="1000">
+                    <button class="update-button">Update</button>
+                
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:black;font-size:22px;">
+                <i class="fas fa-tshirt"></i>      Clothing
+            </span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+                
+
+
+                <input class="bar-graph__number-input  admin-input " type="number" value="" min="0" max="1000">
+                <button class="update-button">Update</button>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:brown;font-size:22px;">
+                👟  Shoes
+            </span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+                
+                <input class="bar-graph__number-input admin-input  " type="number" value="" min="0" max="1000">
+                <button class="update-button">Update</button>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:yellow;font-size:22px;">
+                🧸    Toys
+            </span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+
+                <input class="bar-graph__number-input  admin-input " type="number" value="" min="0" max="1000">
+                    <button class="update-button">Update</button>
+                
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <div class="bar-graph">
+        <div class="bar-graph__item">
+            <span class="bar-graph__label" style="color:navy;font-size:22px;">
+                <i class="fas fa-gift"></i>      Kiddies Packs
+            </span>
+            <br />
+            <div class="bar-graph__bar-container">
+                <div class="bar-graph__bar" style="width: 40%;"></div>
+            </div>
+            <div class="bar-graph__controls">
+                <span class="bar-graph__number">30</span>
+
+                <input class="bar-graph__number-input admin-input  " type="number" value="" min="0" max="1000">
+                    <button class="update-button">Update</button>
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- Add more language items using the same structure -->
+    </div>
+
+    <script>
+        // Check if the user is authenticated and in the "Admin" role
+        if (User.Identity.IsAuthenticated && User.IsInRole("Admin")) {
+            // Select all elements with the "admin-input" class
+            const adminInputs = document.querySelectorAll('.admin-input');
+
+            // Loop through each admin input and add the specified line
+            adminInputs.forEach((input) => {
+                input.style.border = "1px solid red"; // Change this line as needed
+            });
+        }
+    </script>
+
+
+
+
+    <script>
+                // Get all the bar graph items
+                const items = document.querySelectorAll('.bar-graph__item');
+
+                // Initialize an array to store the values
+                const values = [];
+
+                // Load values from localStorage if available
+                if (localStorage.getItem('barGraphValues')) {
+                    const storedValues = JSON.parse(localStorage.getItem('barGraphValues'));
+                    values.push(...storedValues);
+                } else {
+                    // If no values are stored, initialize with default values
+                    items.forEach(() => {
+                        values.push(0.8); // Default value is 80%
+                    });
+                }
+
+                // Function to update the bar and save the value in localStorage
+                function updateBar(index, newValue) {
+            const bar = items[index].querySelector('.bar-graph__bar');
+            const input = items[index].querySelector('.bar-graph__number-input');
+            const number = items[index].querySelector('.bar-graph__number');
+
+            // Ensure the value is within the desired range
+            newValue = Math.min(1000, Math.max(0, newValue));
+
+            const widthPercentage = (newValue /100) * 1000;
+
+            values[index] = newValue;
+           bar.style.width = widthPercentage + '%';
+
+
+
+            // Set the input's value without any conversion or formatting
+            input.value = newValue;
+
+            // Set the number's content without any conversion or formatting
+            number.textContent = newValue*100;
+
+            localStorage.setItem('barGraphValues', JSON.stringify(values));
+        }
+
+
+
+                // Loop through each item
+                items.forEach((item, index) => {
+                    // Set the initial width of the bar
+                    const widthPercentage = values[index];
+                    updateBar(index, widthPercentage);
+
+                    // Get the input field
+                    const input = item.querySelector('.bar-graph__number-input');
+                    // Get the update button
+                    const updateButton = item.querySelector('.update-button');
+
+                    // Add an event listener to update the bar when the button is clicked
+                    updateButton.addEventListener('click', () => {
+                        const newValue = parseFloat(input.value) /100;
+                        if (!isNaN(newValue)) {
+                            updateBar(index, newValue);
+                        }
+                    });
+                });
+    </script>
+
+</body>
+</html>
+
+
+<style>
+    .pagination-container {
+        display: flex;
+        justify-content: flex-end;
+    }
+</style>
+<title>Pagination Example</title>
+
+<div class="pagination-container">
+    <ul class="pagination">
+        @*  <li class="page-item disabled">
+        <a class="page-link" href="#">&laquo;</a>
+        </li>*@
+
+        <li class="page-item">
+            <a class="page-link" href="/Donate/Donate"> Previous  </a>
+        </li>
+
+
+        <li class="page-item active">
+            <a class="page-link" href="/Home">1</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/About/About">2</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Wish/Wish">3</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Donate/Donate">4</a>
+        </li>
+
+        <li class="page-item">
+            <a class="page-link" href="/Statistic/Statistic">5</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/DropZone/DropZone">6</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/Payment/Payment">7</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href=" /Journey/Journey">8</a>
+        </li>
+        <li class="page-item">
+            <a class="page-link" href="/DropZone/DropZone"> Next </a>
+        </li>
+
+
+        @*<li class="page-item">
+        <a class="page-link" href="#">&raquo;</a>
+        </li>*@
+    </ul>
+

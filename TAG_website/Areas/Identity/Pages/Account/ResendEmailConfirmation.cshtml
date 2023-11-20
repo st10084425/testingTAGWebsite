@@ -1,0 +1,52 @@
+﻿@page
+@model ResendEmailConfirmationModel
+@{
+    ViewData["Title"] = "Resend email confirmation";
+}
+
+
+<style>
+    body{
+        background-color:white
+    }
+</style>
+
+<h1>@ViewData["Title"]</h1>
+@*<h2>Enter your email.</h2>*@
+<br />
+<br />
+<p>Please confirm that you want to use this as your TAG account</p>
+<p>email address.Once its done you will be able to start donating!</p>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-floating">
+                <input asp-for="Input.Email" class="form-control" aria-required="true" />
+                <label asp-for="Input.Email" class="form-label"></label>
+                <span asp-validation-for="Input.Email" class="text-danger"></span>
+            </div>
+            <br />
+           @* <button type="submit" class="w-100 btn btn-lg btn-primary">Resend</button>*@
+            <button type="submit" class="w-100 btn btn-lg btn-primary">
+                <i class="fas fa-redo"></i> Resend
+            </button>
+
+            <br />
+
+            <div style="background-color: white; display: inline-block; padding: 10px;">
+                <img src="~/css/Images/email.png" alt="Image">
+            </div>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
